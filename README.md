@@ -1,8 +1,10 @@
 # ShellReplacement
 
-This is a quick and dirty fork of the program made available (like 10 years ago) by avatar-e (Erwin Ried - https://github.com/eried) on Experts-Exchange.
-Source Article : https://www.experts-exchange.com/questions/23074854/Windows-Shell-Explorer-Replacement-with-simple-program-launcher.html
-Sources Code : http://erwin.ried.cl/files/articles/_public/ShellReplacement_0.1.zip
+This is a quick and dirty fork of the program made available (like 10 years ago) by avatar-e on Experts-Exchange.
+
+- Identified  Main Developer : Erwin Ried - https://github.com/eried
+- Source Article : https://www.experts-exchange.com/questions/23074854/Windows-Shell-Explorer-Replacement-with-simple-program-launcher.html
+- Sources Code : http://erwin.ried.cl/files/articles/_public/ShellReplacement_0.1.zip
 
 ## Requirements 
 
