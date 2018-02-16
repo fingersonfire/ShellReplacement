@@ -1,10 +1,12 @@
 # ShellReplacement
 
+This program is intended to replace Windows Explorer as the main shell on a Microsoft Windows computer. You may use it on kiosk or thin client computers in order to restrain access to a few software only. It has also a password protected button to start Explorer.exe and a shutdown button.
+
 This is a quick and dirty fork of the program made available (like 10 years ago) by avatar-e on Experts-Exchange.
 
 - Identified  Main Developer : Erwin Ried - https://github.com/eried
 - Source Article : https://www.experts-exchange.com/questions/23074854/Windows-Shell-Explorer-Replacement-with-simple-program-launcher.html
-- Sources Code : http://erwin.ried.cl/files/articles/_public/ShellReplacement_0.1.zip
+- Initial Source Code : http://erwin.ried.cl/files/articles/_public/ShellReplacement_0.1.zip
 
 ## Requirements 
 
