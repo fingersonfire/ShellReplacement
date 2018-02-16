@@ -22,9 +22,9 @@ The software can only have 5 action buttons
 
 To replace the main shell, Windows Explorer (explorer.exe), please create the following registry value :
 
-Location : HKEY_CURRENT_USER\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\
-Type : String
-Name : Shell
-Value : The full path to ShellReplacement.exe
+- Location : HKEY_CURRENT_USER\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\
+- Type : String
+- Name : Shell
+- Value : The full path to ShellReplacement.exe
 
 Make sure the EXE and the CONFIG files are in the same folder.
