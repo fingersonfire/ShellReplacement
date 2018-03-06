@@ -22,7 +22,12 @@ namespace ShellReplacement
         {
             this.Text = Settings.Default.WindowTitle;
 
+            this.ControlBox = false;
             this.FormBorderStyle = FormBorderStyle.None;
+            this.ShowIcon = false;
+            this.ShowInTaskbar = false;
+            this.StartPosition = FormStartPosition.CenterScreen;
+            this.AutoScaleMode = AutoScaleMode.Font;
 
 
             if (!Settings.Default.Shutdown)
